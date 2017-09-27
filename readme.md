@@ -1,0 +1,2 @@
+- [slick](https://github.com/kenwheeler/slick/)
+- [lightbox2](http://lokeshdhakar.com/projects/lightbox2/)
